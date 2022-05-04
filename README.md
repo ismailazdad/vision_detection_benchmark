@@ -11,7 +11,9 @@ On 3 dataset :
 
  - standforddog dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/)
  - road signs (https://arcraftimages.s3-accelerate.amazonaws.com/Datasets/RoadSigns/RoadSignsPascalVOC.zip)
- - white celles (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182702/#!po=70.0000)
+ - white cells (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182702/#!po=70.0000)
+
+https://pubmed.ncbi.nlm.nih.gov/31425939/
 
 
 ![image](https://user-images.githubusercontent.com/74118071/166667483-e6e95d1f-90a2-4f2a-a6d2-3a03bde32608.png)
