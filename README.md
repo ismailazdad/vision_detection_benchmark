@@ -15,6 +15,22 @@ On 3 dataset :
 
 https://pubmed.ncbi.nlm.nih.gov/31425939/
 
+white blood reference : 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182702/#!po=70.0000
+
+https://data.mendeley.com/datasets/snkd93bnjr/1
+
+https://raabindata.com/free-data/
+
+https://www.nature.com/articles/s41598-021-04426-x#Sec5
+
+https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080958#:~:text=The%20Munich%20AML%20Morphology%20Dataset,without%20signs%20of%20hematological%20malignancy.
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/74118071/166667483-e6e95d1f-90a2-4f2a-a6d2-3a03bde32608.png)
 
