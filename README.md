@@ -6,6 +6,8 @@ we test 3 models :
  - Xception
  - Yolov5
  - Yolor
+ - Yolov6
+ - Yolov7
 
 On 3 dataset :
 
