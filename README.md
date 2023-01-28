@@ -8,6 +8,8 @@ we test 5 models :
  - Yolor
  - Yolov6
  - Yolov7
+ 
+Yolov8 only white cells
 
 On 3 dataset :
 
