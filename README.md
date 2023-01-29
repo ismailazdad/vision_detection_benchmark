@@ -8,8 +8,7 @@ we test 5 models :
  - Yolor
  - Yolov6
  - Yolov7
- 
-Yolov8 only white cells
+ - Yolov8 (only for white cells dataset)
 
 On 3 dataset :
 
